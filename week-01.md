@@ -11,7 +11,7 @@ ___bold italic___
 ~~cross~~
 
 My python code is given below :
-```
+```py
 a = 10
 print(a)
 print("vishal kumar")
