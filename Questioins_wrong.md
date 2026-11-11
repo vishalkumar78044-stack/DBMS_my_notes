@@ -31,6 +31,9 @@ ans ==> actual content of database at particular instance,
 Unchecked constraint violations --> we can't check our data like age should not be negative etc.
 
 till week -01 1.3
+---
+
+week - 02
 
 
 
