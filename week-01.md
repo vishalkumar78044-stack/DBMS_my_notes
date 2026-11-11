@@ -16,3 +16,7 @@ a = 10
 print(a)
 print("vishal kumar")
 ```
+
+[click to view youtube chanel](www.youtube.com/@expertclub7)
+<www.youtube.com/@expertclub7>
+![vishal](https://www.instagram.com/p/CpMn9fgJ-tl/)
