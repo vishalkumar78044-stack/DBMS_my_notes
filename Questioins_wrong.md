@@ -1,3 +1,7 @@
+week -01
+
+---
+
 1. Which of the following languages can be used to create new records and manipulate existing records in a database?
 ans ==> DML
 
@@ -33,7 +37,24 @@ Unchecked constraint violations --> we can't check our data like age should not 
 till week -01 1.3
 ---
 
-week - 02
+##week - 02
+
+---
+1. The set of allowed values for a given attribute is called the .......... of the attribute. --> domain
+
+2. whhic of the following is true about secondary key
+
+    <img width="600" height="412" alt="image" src="https://github.com/user-attachments/assets/6af4fe5a-53dc-4f0b-ad0a-5ebbb1b12eb5" />
+
+3. ............ is a key that uniquely identifies an entity or an object in the database; however, it is not derived from the application data.
+  <img width="614" height="402" alt="image" src="https://github.com/user-attachments/assets/ead5a561-f909-4205-b99a-4a95ee3fde7c" />
+
+4. Which of the following option(s) is/are true for procedural and declarative programming style?
+   <img width="624" height="444" alt="image" src="https://github.com/user-attachments/assets/8b44d8f5-54b5-4156-97f7-2fcf00232dd6" />
+
+till 2.1
+
+
 
 
 
