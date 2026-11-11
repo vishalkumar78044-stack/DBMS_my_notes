@@ -1,4 +1,4 @@
-week -01
+## week -01
 
 ---
 
@@ -37,7 +37,7 @@ Unchecked constraint violations --> we can't check our data like age should not 
 till week -01 1.3
 ---
 
-##week - 02
+## week - 02
 
 ---
 1. The set of allowed values for a given attribute is called the .......... of the attribute. --> domain
