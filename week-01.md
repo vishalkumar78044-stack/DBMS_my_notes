@@ -9,3 +9,10 @@ __bold__
 ___bold italic___
 ~cross~
 ~~cross~~
+
+My python code is given below :
+```
+a = 10
+print(a)
+print("vishal kumar")
+```
