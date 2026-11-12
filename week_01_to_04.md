@@ -38,14 +38,26 @@ basically rows of data
 3. DELETE - to delete particular row of data
 
 ### Sql filtering 
-1. FROM: The engine goes to the tables to gather the raw data.
-2. WHERE: It filters out the individual rows that don’t meet the criteria.
-3. GROUP BY: It takes the surviving rows and sorts them into buckets.
-4. HAVING: It looks at the buckets, calculates the aggregates, and throws away any buckets that fail the test.
-5. SELECT: It finally decides which columns to show you on the screen.
-6. ORDER BY: It alphabetizes or sorts the final output for you.
+1. **FROM**: The engine goes to the tables to gather the raw data.
+2.** WHERE**: It filters out the individual rows that don’t meet the criteria.
+3. **GROUP BY**: It takes the surviving rows and sorts them into buckets.
+4. **HAVING**: It looks at the buckets, calculates the aggregates, and throws away any buckets that fail the test.
+5. **SELECT**: It finally decides which columns to show you on the screen.
+6.**ORDER BY**: It alphabetizes or sorts the final output for you.
+7. **some**: compare to at least one row
+8. **all**: compare to all rows
+9. **exist**
+10. **not exist**
+11. **with**
+    ```
+    with max_budget(value) as
+    (select max(budget) from department)
+        select department.dept_name
+    from department, max_budget
+    where department.budget = max_budget.value;
+    ```
 
-
+# joins remain
 
 
 
