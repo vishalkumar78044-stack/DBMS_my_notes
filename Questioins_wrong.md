@@ -80,8 +80,33 @@ They typically handle access permissions, backups, performance, security, and re
 4. Which of the following option(s) is/are true for procedural and declarative programming style?
    <img width="624" height="444" alt="image" src="https://github.com/user-attachments/assets/8b44d8f5-54b5-4156-97f7-2fcf00232dd6" />
 
-till 2.1
+**=** → equal to
+**>** → greater than
+**∨** → OR
+**¬** → NOT
 
+- Rule: <img width="624" height="349" alt="image" src="https://github.com/user-attachments/assets/879f064d-d171-4c6c-9f0c-fe86b5edeeee" />
+
+5. <img width="454" height="214" alt="image" src="https://github.com/user-attachments/assets/7bbeda4f-4217-49e4-bcdb-c4da8aa3285c" />
+**π** means projection -- we will make sure to remove copy (repeat) entries
+
+6. for union this shouls true
+    a) Same number of attributes (columns)
+    b) Corresponding attributes must have the same domain/type
+   union is not possible for this
+   <img width="344" height="207" alt="image" src="https://github.com/user-attachments/assets/95d046e5-1100-4992-abdd-0d152f57164d" />
+so with this also <img width="316" height="155" alt="image" src="https://github.com/user-attachments/assets/5357a91a-992e-4788-b3c2-df514940a273" />
+
+7. <img width="512" height="334" alt="image" src="https://github.com/user-attachments/assets/ebd576e1-cd84-4191-9952-3114608b8023" />
+  **r⋈s** is for join since no join is mansion it is natural join means only rows with same values will join
+
+8. Cartesian product : r X s - representated
+   <img width="316" height="148" alt="image" src="https://github.com/user-attachments/assets/c2e3a246-f2c5-45cb-bb63-1fda4a67141b" />
+
+   <img width="800" height="630" alt="image" src="https://github.com/user-attachments/assets/112caa7c-88ca-4182-90fb-9c02fb8c4d6b" />
+
+9. choose correct statment
+    <img width="594" height="386" alt="image" src="https://github.com/user-attachments/assets/51f6d910-587b-449b-b2b5-ef6b6bfc0655" />
 
 
 
