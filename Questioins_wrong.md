@@ -117,7 +117,8 @@ so with this also <img width="316" height="155" alt="image" src="https://github.
  
   **r⋈s** is for join since no join is mansion it is natural join means only rows with same values will join
 
-11. Cartesian product : r X s - representated
+11. # **Cartesian product** : r X s - representated
+    ## also called cross join
  
    <img width="316" height="148" alt="image" src="https://github.com/user-attachments/assets/c2e3a246-f2c5-45cb-bb63-1fda4a67141b" />
 
@@ -127,8 +128,17 @@ so with this also <img width="316" height="155" alt="image" src="https://github.
 
      <img width="594" height="386" alt="image" src="https://github.com/user-attachments/assets/51f6d910-587b-449b-b2b5-ef6b6bfc0655" />
 
+12. 
 
+<img width="1136" height="469" alt="image" src="https://github.com/user-attachments/assets/0926d089-0255-44db-9f3c-ca17cc53ce2a" />
 
+since no condition is given so we do cortisone product who have shop_num = 10
+
+**When there are no common attributes, a NATURAL JOIN degenerates into a Cartesian Product (CROSS JOIN).**
+
+**natural join** : A natural join combines rows from two tables by matching columns that have the same name and equal values. The shared column appears only once in the result.
+
+till 2.4
 
 
 
