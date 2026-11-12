@@ -34,7 +34,35 @@ ans ==> actual content of database at particular instance,
 9. <img width="586" height="442" alt="image" src="https://github.com/user-attachments/assets/0be1bb62-3eee-4e14-8d0f-29f98b952804" />
 Unchecked constraint violations --> we can't check our data like age should not be negative etc.
 
-till week -01 1.3
+10. Which of the following is/are example(s) of client-server RDBMSs?
+    ans --> Mysql , sybase ,INFORMIX
+
+11. 
+<img width="658" height="444" alt="image" src="https://github.com/user-attachments/assets/726e425c-a579-4a67-953b-1f1719192011" />
+
+12. ............... controls the interaction among concurrent transactions in order to ensure the consistency of the database.
+    ans --> **concurrency control manager**
+
+13. **XML** : Extensible Markup Language (XML) is a markup language used to store, transport, and reconstruct data
+    <img width="750" height="441" alt="image" src="https://github.com/user-attachments/assets/610b97d3-7279-4686-823a-052bc96a1ad4" />
+
+14. .............. is a program module that provides the interface between the low-level data stored in the database and the application programs.
+    ans --> storage manager
+
+**DBA** : A database administrator (DBA) is the person responsible for managing and maintaining an organization’s databases. 
+They typically handle access permissions, backups, performance, security, and recovery if data is lost or damaged.
+
+## **concept of Logical Data Independence:-**
+**logical level** change : should not effect only view level
+**physical level** change : should not effect both Logical and View level
+
+15. Which model is widely used during the planning and designing phase of a database system?
+   ans --> Entity Relationship Model
+16 . ## **Physical data independance**
+   any change made to the physical schema should not affect the logical level of the DBMS
+
+17 . **File manager** : components of DBMS interacts with the file manager of the operating system
+
 ---
 
 ## week - 02
