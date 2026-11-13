@@ -138,6 +138,9 @@ since no condition is given so we do cortisone product who have shop_num = 10
 
 **natural join** : A natural join combines rows from two tables by matching columns that have the same name and equal values. The shared column appears only once in the result.
 
+<img width="918" height="434" alt="image" src="https://github.com/user-attachments/assets/43eb0971-0dee-4d78-8bda-e78a945f184d" />
+
+
 till 2.4
 
 
